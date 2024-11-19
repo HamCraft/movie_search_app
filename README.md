@@ -1,4 +1,4 @@
-# Day 16: Movie Search
+ Movie Search App
 
 **Description:** Search for movies and display details.
 
